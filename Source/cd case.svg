@@ -2449,7 +2449,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2"
      inkscape:cx="302.76791"
-     inkscape:cy="487.78695"
+     inkscape:cy="567.78695"
      inkscape:document-units="px"
      inkscape:current-layer="g3251"
      showgrid="true"
@@ -2762,7 +2762,7 @@
            sodipodi:role="line">4</tspan></text>
       <path
          transform="matrix(-1,0,0,-0.87119556,743.90451,1348.1518)"
-         d="m 99.212599,957.73285 a 28.106298,17.370647 0 1 1 -56.212597,0 28.106298,17.370647 0 1 1 56.212597,0 z"
+         d="m 99.212599,957.73285 c 0,9.59354 -12.583619,17.37065 -28.106299,17.37065 -15.52268,0 -28.106298,-7.77711 -28.106298,-17.37065 0,-9.59354 12.583618,-17.37065 28.106298,-17.37065 15.52268,0 28.106299,7.77711 28.106299,17.37065 z"
          sodipodi:ry="17.370647"
          sodipodi:rx="28.106298"
          sodipodi:cy="957.73285"
@@ -2835,7 +2835,7 @@
            sodipodi:cy="24.930641"
            sodipodi:rx="6.0987959"
            sodipodi:ry="6.0987959"
-           d="m 30.405591,24.930641 a 6.0987959,6.0987959 0 1 1 -12.197592,0 6.0987959,6.0987959 0 1 1 12.197592,0 z"
+           d="m 30.405591,24.930641 c 0,3.368272 -2.730524,6.098796 -6.098796,6.098796 -3.368272,0 -6.098796,-2.730524 -6.098796,-6.098796 0,-3.368272 2.730524,-6.098796 6.098796,-6.098796 3.368272,0 6.098796,2.730524 6.098796,6.098796 z"
            transform="translate(0.08838835,0.08838865)" />
         <path
            inkscape:connector-curvature="0"
@@ -3095,7 +3095,7 @@
              width="353.55338"
              id="rect4274" /></flowRegion><flowPara
            style="font-size:10px"
-           id="flowPara4276">png + svg available from</flowPara></flowRoot>      <text
+           id="flowPara4276">pdf + svg available from</flowPara></flowRoot>      <text
          sodipodi:linespacing="125%"
          id="text4278"
          y="1182.5043"
@@ -3247,30 +3247,30 @@
            inkscape:path-effect="#path-effect3383-56-2-0"
            id="path3381-8-4-0"
            d="m 549.02264,746.67745 -354.33071,0"
-           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
         <path
            inkscape:original-d="m 549.02264,711.24438 -354.33071,0"
            inkscape:path-effect="#path-effect3383-56-2-1"
            id="path3381-8-4-1"
            d="m 549.02264,711.24438 -354.33071,0"
-           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
         <path
            inkscape:original-d="m 549.02264,675.81131 -354.33071,0"
            inkscape:path-effect="#path-effect3383-56-2-15"
            id="path3381-8-4-2"
            d="m 549.02264,675.81131 -354.33071,0"
-           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
         <path
            inkscape:original-d="m 549.02264,640.37824 -354.33071,0"
            inkscape:path-effect="#path-effect3383-56-2-4"
            id="path3381-8-4-9"
            d="m 549.02264,640.37824 -354.33071,0"
-           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
         <text
            id="text3443-9-1-1"
            y="-888.40973"
            x="-549.02264"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:ProFontWindows;-inkscape-font-specification:ProFontWindows"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:ProFontWindows;-inkscape-font-specification:ProFontWindows"
            xml:space="preserve"
            transform="scale(-1,-1)"><tspan
              style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Delicious SmallCaps;-inkscape-font-specification:'Delicious SmallCaps, Bold'"
@@ -3282,7 +3282,7 @@
            id="text3443-9-1-1-8"
            y="-959.27588"
            x="-318.70767"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:ProFontWindows;-inkscape-font-specification:ProFontWindows"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:ProFontWindows;-inkscape-font-specification:ProFontWindows"
            xml:space="preserve"
            transform="scale(-1,-1)"><tspan
              style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Delicious SmallCaps;-inkscape-font-specification:'Delicious SmallCaps, Bold'"
@@ -3294,7 +3294,7 @@
            id="text3443-9-1-1-5"
            y="-852.97668"
            x="-549.02264"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:ProFontWindows;-inkscape-font-specification:ProFontWindows"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:ProFontWindows;-inkscape-font-specification:ProFontWindows"
            xml:space="preserve"
            transform="scale(-1,-1)"><tspan
              style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Delicious SmallCaps;-inkscape-font-specification:'Delicious SmallCaps, Bold'"
@@ -3306,7 +3306,7 @@
            id="text3443-9-1-1-5-2"
            y="-852.97668"
            x="-318.70767"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:ProFontWindows;-inkscape-font-specification:ProFontWindows"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:ProFontWindows;-inkscape-font-specification:ProFontWindows"
            xml:space="preserve"
            transform="scale(-1,-1)"><tspan
              style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Delicious SmallCaps;-inkscape-font-specification:'Delicious SmallCaps, Bold'"
@@ -3318,7 +3318,7 @@
            id="text3443-9-1-1-5-7"
            y="-817.54358"
            x="-549.02264"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:ProFontWindows;-inkscape-font-specification:ProFontWindows"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:ProFontWindows;-inkscape-font-specification:ProFontWindows"
            xml:space="preserve"
            transform="scale(-1,-1)"><tspan
              style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Delicious SmallCaps;-inkscape-font-specification:'Delicious SmallCaps, Bold'"
@@ -3330,7 +3330,7 @@
            id="text3443-9-1-1-5-7-0"
            y="-782.11053"
            x="-549.02264"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:ProFontWindows;-inkscape-font-specification:ProFontWindows"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:ProFontWindows;-inkscape-font-specification:ProFontWindows"
            xml:space="preserve"
            transform="scale(-1,-1)"><tspan
              style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Delicious SmallCaps;-inkscape-font-specification:'Delicious SmallCaps, Bold'"
@@ -3342,7 +3342,7 @@
            id="text3443-9-1-1-5-7-0-1"
            y="-746.67743"
            x="-549.02264"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:ProFontWindows;-inkscape-font-specification:ProFontWindows"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:ProFontWindows;-inkscape-font-specification:ProFontWindows"
            xml:space="preserve"
            transform="scale(-1,-1)"><tspan
              style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Delicious SmallCaps;-inkscape-font-specification:'Delicious SmallCaps, Bold'"
@@ -3354,7 +3354,7 @@
            id="text3443-3-8"
            y="-923.84283"
            x="-549.02264"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:ProFontWindows;-inkscape-font-specification:ProFontWindows"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:ProFontWindows;-inkscape-font-specification:ProFontWindows"
            xml:space="preserve"
            transform="scale(-1,-1)"><tspan
              style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Delicious SmallCaps;-inkscape-font-specification:'Delicious SmallCaps, Bold'"
@@ -3367,7 +3367,7 @@
            inkscape:path-effect="#path-effect3383-51-6-1"
            id="path3381-0-7-6"
            d="m 549.02264,923.84281 -354.33071,0"
-           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       </g>
     </g>
   </g>
