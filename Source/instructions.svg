@@ -14,7 +14,7 @@
    height="1052.3622"
    id="svg2"
    version="1.1"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.1 r9760"
    sodipodi:docname="instructions.svg"
    inkscape:export-filename="/home/xan/timetable.png"
    inkscape:export-xdpi="90"
@@ -2822,17 +2822,17 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="247.09883"
-     inkscape:cy="275.57338"
+     inkscape:cy="995.57338"
      inkscape:document-units="px"
-     inkscape:current-layer="g4787"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="mm"
      showguides="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="951"
+     inkscape:window-width="1440"
+     inkscape:window-height="801"
      inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1">
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
        id="grid2818"
@@ -3463,7 +3463,7 @@
          sodipodi:role="line"
          id="tspan5413"
          x="283.2746"
-         y="488.04108">dowload the template and print (with page scaling turned off) onto ISO a4 paper.</tspan></text>
+         y="488.04108">download the template and print (with page scaling turned off) onto ISO a4 paper.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Delicious;-inkscape-font-specification:Delicious Medium"
